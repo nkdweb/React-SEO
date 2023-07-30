@@ -5,7 +5,7 @@ export const HomePage = () => {
   return (
     <Fragment>
       <Helmet>
-        <title>React SEO | Home Page</title>
+        <title>Home Page | React App</title>
         <meta name="description" content="Description for Home Page" />
       </Helmet>
       <h1>Home Page</h1>

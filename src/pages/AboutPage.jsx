@@ -6,10 +6,9 @@ export const AboutPage = () => {
   return (
     <Fragment>
       <Seo
-        title="React SEO | About Page"
-        description="description for about page"
+        title="About Page | React App"
+        description="Description for about page"
         type="webapp"
-        name="Sachin Chaurasiya"
       />
       <h1>About Page</h1>
       <h2>
