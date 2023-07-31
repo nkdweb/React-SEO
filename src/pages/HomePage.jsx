@@ -10,7 +10,7 @@ export const HomePage = () => {
       </Helmet>
       <h1>Home Page</h1>
       <h2>
-        How to Integrate ReactJs and react-helmet-async - Manage SEO and Meta
+        ReactJs and react-helmet-async - Manage SEO and Meta
         Data
       </h2>
     </Fragment>
